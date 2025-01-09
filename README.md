@@ -1,5 +1,8 @@
-# CPRD
-MLTC Project: This repository contains code and resources for investigating social needs in individuals with multiple long-term conditions (MLTC) using CPRD Data from England. The study explores the intersection of social needs, sociodemographic factors, and MLTC in a population-based cohort.
+# **Social Needs in individuals with Multiple Long-Term Conditions: A CPRD-Based Cohort Study in England** 
 ---
+**Tassella Isaac, Alim Sabary, Lucy Smith, Nazrul Islam, Glenn Simpson, Andrew Farmer, Christos V Chalitsios, Hilda Hounkpatin, Hajira Dambha-Miller**
+
+## *Project Description**
+
 
 
